@@ -20,7 +20,4 @@ public class Coll2streamsb {
 
   }
 }
-/*  OUTPUT
-  max distance   :  7.0710678118654755
-*/
 
