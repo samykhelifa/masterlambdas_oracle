@@ -13,7 +13,7 @@ public class Coll2streams {
    for (Point p : pointList) {
        maxDistance = Math.max(p.distance(0, 0),  maxDistance); 
       System.out.println( p + " :  “  + maxDistance);
-    }
+      }
   }
 }
 /*   OUTPUT
@@ -23,3 +23,4 @@ java.awt.Point[x=0,y=3]  :  3.0
 java.awt.Point[x=1,y=4]  :  4.123105625617661
 java.awt.Point[x=2,y=5]  :  5.385164807134504
 */
+ 
