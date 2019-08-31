@@ -16,6 +16,7 @@ public class Coll2streamsa {
       System.out.println( p + "  :  " + p.distance(0,0));
          }
        System.out.println( "max distance   :  " + maxDistance);
-
-  }
+       
+    }
 }
+
